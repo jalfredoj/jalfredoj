@@ -24,9 +24,13 @@
 </div> -->
 <hr/> 
 
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+## 🔧 QA Skills & Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfredoj&theme=algolia&layout=compact&langs_count=5&hide=html,css" alt="Lenguajes más usados" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jalfredoj&show_icons=true&theme=algolia&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
 
 <br>
 <hr/>
